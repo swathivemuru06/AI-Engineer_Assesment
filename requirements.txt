@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langsmith
+faiss-cpu
+openai
+pypdf
+python-dotenv
+streamlit
+tqdm
+fpdf
+pydantic
+pydantic-settings
